@@ -1,2 +1,2 @@
 def add(num1, num2):
-    raise NotImplemented
+    return num1+num2
